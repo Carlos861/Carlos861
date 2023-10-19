@@ -31,8 +31,8 @@ I like to solve real life problems, develope new projects, Collobarate with new 
 
 ## 💼 Techstack:
 
-![](https://img.shields.io/badge/code-Python-informational?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/code-C++-informational?style=flat&logo=Redux&color=764ABC)
+[![Python](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![C++](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=C%2B%2B&logoColor=white)]()
 ![](https://img.shields.io/badge/code-AWS-informational?style=flat&logo=react&color=61DAFB)
 [![Postman](https://img.shields.io/badge/postman-orange?style=for-the-badge&logo=postman&logoColor=black)](https://www.postman.com/)
 ![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=react&color=61DAFB)
