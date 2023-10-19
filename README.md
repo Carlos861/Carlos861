@@ -1,8 +1,8 @@
 <div id ="header" align="center">
-<h3>
-  Hi there, I'm Aditya
+
+  ### Hi there, I'm Aditya
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h3>
+
 </div>
 <div id ="header" align = "center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
@@ -35,6 +35,7 @@ I like to solve real life problems, develope new projects, Collobarate with new 
 [![C++](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=C%2B%2B&logoColor=white)]()
 ![](https://img.shields.io/badge/code-AWS-informational?style=flat&logo=react&color=61DAFB)
 [![Postman](https://img.shields.io/badge/postman-orange?style=for-the-badge&logo=postman&logoColor=black)](https://www.postman.com/)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Code-ExpressJS-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Code-Docker-informational?style=flat&logo=react&color=61DAFB)
@@ -42,7 +43,6 @@ I like to solve real life problems, develope new projects, Collobarate with new 
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Code-Linux-informational?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
 
