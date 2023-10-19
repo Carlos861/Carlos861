@@ -30,35 +30,32 @@ I like to solve real life problems, develope new projects, Collobarate with new 
 ## 💼 Techstack:
 
 [![Python](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 [![C++](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=C%2B%2B&logoColor=white)]()
-![](https://img.shields.io/badge/code-AWS-informational?style=flat&logo=react&color=61DAFB)
-[![Postman](https://img.shields.io/badge/postman-orange?style=for-the-badge&logo=postman&logoColor=black)](https://www.postman.com/)
+[![Postman](https://img.shields.io/badge/postman-orange?style=for-the-badge&logo=postman&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/Code-ExpressJS-informational?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/Code-Docker-informational?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/Code-Bootstrap-informational?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/Code-Linux-informational?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
-![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
-
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 </br>
-
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
 </br>
 
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
 
 ## 📈 GitHub Stats 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=adityaparanjape24)](https://github.com/adityaparanjape24)
+[![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=adityaparanjape24)](https://github.com/adityaparanjape24)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaparanjape24&layout=compact)](https://github.com/adityaparanjape24)
 
