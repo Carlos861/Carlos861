@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </div>
 <h2 align="center">
-Pursuing BE in Information Technology 💻, Currently learning web development, DevOps, New technologies !
+Software Developer 💻, Currently learning web development, DevOps !
 </h2> 
 
 I like to solve real life problems, develope new projects, Collobarate with new people, open to learn new things
