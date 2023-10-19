@@ -14,7 +14,7 @@ Pursuing BE in Information Technology 💻, Currently learning web development, 
 I like to solve real life problems, develope new projects, Collobarate with new people, open to learn new things
 
 ### 🤝 Connect with me:
-<a href="https://www.linkedin.com/in/aditya-paranjape9249"
+<a href="https://www.linkedin.com/in/aditya-paranjape9249">
     ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 </a>
 <div id='badges'>
