@@ -1,8 +1,8 @@
 <div id ="header" align="center">
-<h1>
+<h3>
   Hi there, I'm Aditya
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+</h3>
 </div>
 <div id ="header" align = "center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
@@ -19,7 +19,6 @@ I like to solve real life problems, develope new projects, Collobarate with new 
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 </div>
-  https://komarev.com/ghpvc/?username=your-github-username
   <img src="https://komarev.com/ghpvc/?username=adityaparanjape24&style=flat-square&color=blue" alt=""/>
 </br>
 
@@ -30,9 +29,9 @@ I like to solve real life problems, develope new projects, Collobarate with new 
 
 ## 💼 Techstack:
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=Redux&color=764ABC)
-![](https://img.shields.io/badge/Code-AWS-informational?style=flat&logo=react&color=61DAFB)
+![](https://img.shields.io/badge/badge-Python-informational?style=flat&logo=react&color=61DAFB)
+![](https://img.shields.io/badge/badge-C++-informational?style=flat&logo=Redux&color=764ABC)
+![](https://img.shields.io/badge/badge-AWS-informational?style=flat&logo=react&color=61DAFB)
 [![Postman](https://img.shields.io/badge/postman-orange?style=for-the-badge&logo=postman&logoColor=black)](https://www.postman.com/)
 ![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Code-ExpressJS-informational?style=flat&logo=react&color=61DAFB)
