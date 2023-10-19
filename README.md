@@ -14,11 +14,9 @@ Pursuing BE in Information Technology 💻, Currently learning web development, 
 I like to solve real life problems, develope new projects, Collobarate with new people, open to learn new things
 
 ### 🤝 Connect with me:
-<div id = "badges">
-  <a href="https://www.linkedin.com/in/aditya-paranjape9249"
+<a href="https://www.linkedin.com/in/aditya-paranjape9249"
     ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 </a>
-</div>
 <div id='badges'>
   <img src="https://komarev.com/ghpvc/?username=adityaparanjape24&style=flat-square&color=blue" alt=""/>
 </div>
@@ -31,9 +29,9 @@ I like to solve real life problems, develope new projects, Collobarate with new 
 
 ## 💼 Techstack:
 
-![](https://img.shields.io/badge/Python-informational?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/C++-informational?style=flat&logo=Redux&color=764ABC)
-![](https://img.shields.io/badge/AWS-informational?style=flat&logo=react&color=61DAFB)
+![](https://img.shields.io/badge/code-Python-informational?style=flat&logo=react&color=61DAFB)
+![](https://img.shields.io/badge/code-C++-informational?style=flat&logo=Redux&color=764ABC)
+![](https://img.shields.io/badge/code-AWS-informational?style=flat&logo=react&color=61DAFB)
 [![Postman](https://img.shields.io/badge/postman-orange?style=for-the-badge&logo=postman&logoColor=black)](https://www.postman.com/)
 ![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Code-ExpressJS-informational?style=flat&logo=react&color=61DAFB)
