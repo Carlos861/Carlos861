@@ -1,12 +1,12 @@
 <div id ="header" align="center">
 
-  ### Hi there!  
+  ### Hi there! 🤖  
 </div>
 <div id ="header" align = "center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </div>
 <h2 align="center">
-Software Developer 💻, Currently learning web development, DevOps !
+Software Developer 💻, Currently learning new skills, DevOps !
 </h2> 
 
 I like to solve real life problems, develope new projects, Collobarate with new people, open to learn new things
@@ -25,7 +25,7 @@ I like to solve real life problems, develope new projects, Collobarate with new 
 ## 🌱 I'm currently learning
 
 - 📱 New technologies
-- Developing new skills
+- 💻 DSA
 
 ## 💼 Techstack:
 
