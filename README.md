@@ -17,9 +17,6 @@ I like to solve real life problems, develope new projects, Collobarate with new 
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 </div>
-<div id='badges'>
-  <img src="https://komarev.com/ghpvc/?username=adityaparanjape24&style=flat-square&color=blue" alt=""/>
-</div>
 </br>
 
 ## 🌱 I'm currently learning
